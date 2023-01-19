@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TianaVermeulen
 - 👀 I’m interested in endless learning and coffee
 - 🌱 I’m currently learning Authentication and Security
-- 💞️ I’m looking to collaborate on with InLaymansTerms
+- 💞️ I’m looking to collaborate with InLaymansTerms
 - 📫 How to reach me ...
 
 <!---
